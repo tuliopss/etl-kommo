@@ -247,7 +247,7 @@ def saveLossReasons():
 
 
 saveLeads()
-saveStatus()
+# saveStatus()
 # savePipelines(    )
-saveLossReasons()
-saveContacts()
+# saveLossReasons()
+# saveContacts()
